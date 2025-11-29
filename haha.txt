@@ -1,0 +1,3 @@
+empId,name,gender,position,department,salary,isActive
+"EMP1001","Haha","Male","IT Support","Tech",250,true
+"EMP1002","Ratanak","Male","Manager","Operations",450,false
